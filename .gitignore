@@ -1,0 +1,4 @@
+Day*
+!Day*.hs
+*.txt
+.vscode
