@@ -2,3 +2,6 @@ Day*
 !Day*.hs
 *.txt
 .vscode
+*.hi
+*.o
+scratch.md
